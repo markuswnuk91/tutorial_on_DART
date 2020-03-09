@@ -65,7 +65,8 @@ Then in the WSL console type:
 
 Launch the executable from the build directory:
 
-    $ ./helloDART/hello_DART
+    $ cd helloDART/build
+    $./hello_DART
 
 Follow the instructions detailed in the console.
 
@@ -78,5 +79,5 @@ In this tutorial you will learn to
 *   import more complex robot structures in the physics engine (hello_panda)
 *   simulate collisions between bodies (hello_collisions)
 
-For each of the tutorials you find a separat subdirectory with the instructions for the tutorial as a tutroial.md file.
+For each of the tutorials you find a separat subdirectory with the instructions for the tutorial as a tutorial.md file.
 
