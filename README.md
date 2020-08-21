@@ -1,4 +1,4 @@
-# IRTG Soft Tissue Robotics Tutorial on DART
+# IRTG Soft Tissue Robotics: Introduction to Dynamics Animation and Robotics Toolbox (DART)
 
 This tutorial is dedicated to the International Research Training Group (IRTG) SoftTissueRobotics. The focus of this tutorial is to give an introduction in the multibody-physics simulation framework [DART](https://dartsim.github.io/).
 But before we go ahead and create our own physical worlds, we need to install some components.
